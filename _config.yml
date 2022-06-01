@@ -104,7 +104,10 @@ analytics:
 author:
   name             : "Darcy Smith"
   avatar           : "/assets/images/about/profile.jpg"
-  bio              : "Architect | Developer | DevOps | All-round dev enthusiast based in South Wales, UK."
+  bio              : |-
+    Architect \| Developer \| DevOps
+
+    All round dev enthusiast based in South Wales, UK.
   availability     : ""
   location         : "South Wales, UK"
   email            :
