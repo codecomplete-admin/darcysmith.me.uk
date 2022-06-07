@@ -3,8 +3,10 @@ main:
   # - title: "About"
   #   url: /about/
   - title: "Blog"
-    url: /year-archive/
+    url: /blog/
+  - title: "Categories"
+    url: /categories/
   - title: "Contact"
-    url: /collection-archive/
+    url: /contact/
   # - title: "Sitemap"
   #   url: /sitemap/

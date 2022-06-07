@@ -105,7 +105,7 @@ author:
   name             : "Darcy Smith"
   avatar           : "/assets/images/about/profile.jpg"
   bio              : "Personal blog of an Architect, Developer, DevOps lover and all-round software enthusiast based in South Wales, UK."
-  availability     : "**Available for contract from October 1st 2022 onwards.**"
+  #availability     : "**Available for contract from October 1st 2022 onwards.**"
   location         : "South Wales, UK"
   email            :
   links:
